@@ -77,6 +77,7 @@ Before running the application, ensure you have the following installed:
 
 ## File Structure
 
+- `download.py`: Script to download 10-K filings using SEC_EDGAR API
 - `analyze_cohere.py`: Script for preprocessing, generating insights, and analyzing sentiment.
 - `app.py`: Streamlit application for visualizing insights and sentiment.
 - `requirements.txt`: List of required Python packages.
