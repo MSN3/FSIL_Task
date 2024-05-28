@@ -3,6 +3,12 @@
 # 10-K Filings Analysis App
 
 This project analyzes SEC 10-K filings using the Cohere API to generate insights and sentiment analysis. The insights and sentiment data are then visualized using Streamlit.
+You can find the deployed app on [WebLink](https://fsiltask-24.streamlit.app/)
+
+## Tech Stack
+- **Web App:** Streamlit - Chosen for its simplicity, ease of setup and seamless deployed without worrying about front-end and backend development 
+- **LLM API:** Cohere - Provides powerful text analysis capabilities with a free tier for initial usage.
+- **Visualization:** Matplotlib - For generating simple visualizations of the insights.
 
 ## Features
 
@@ -45,7 +51,7 @@ Before running the application, ensure you have the following installed:
     python analyze_cohere.py
     ```
 
-2. **Run the Streamlit App**:
+2. **Run the Streamlit App Locally**:
 
    Launch the Streamlit app to visualize the data:
 
