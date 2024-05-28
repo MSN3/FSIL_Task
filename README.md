@@ -18,28 +18,6 @@ Before running the application, ensure you have the following installed:
 - Python 3.7+
 - Required Python packages (listed in `requirements.txt`)
 
-## Installation
-
-1. **Clone the repository**:
-
-    ```bash
-    git clone https://github.com/yourusername/10k-filings-analysis.git
-    cd 10k-filings-analysis
-    ```
-
-2. **Create a virtual environment**:
-
-    ```bash
-    python -m venv venv
-    source venv/bin/activate   # On Windows: venv\Scripts\activate
-    ```
-
-3. **Install the required packages**:
-
-    ```bash
-    pip install -r requirements.txt
-    ```
-
 ## Configuration
 
 1. **Cohere API Key**:
@@ -74,14 +52,6 @@ Before running the application, ensure you have the following installed:
     ```bash
     streamlit run app.py
     ```
-
-## File Structure
-
-- `download.py`: Script to download 10-K filings using SEC_EDGAR API
-- `analyze_cohere.py`: Script for preprocessing, generating insights, and analyzing sentiment.
-- `app.py`: Streamlit application for visualizing insights and sentiment.
-- `requirements.txt`: List of required Python packages.
-- `README.md`: This file.
 
 ## Example Insights CSV
 
