@@ -1,0 +1,287 @@
+company_name,filing_year,insight,sentiment
+AAPL,'17,"Here are the key insights from the 10-K filing for company AAPL for the year '17:
+
+- Market Risk and Management: The company regularly reviews its foreign exchange and interest rate exposures, but there is no guarantee that their risk management strategies will fully offset potential financial impacts.
+- Interest Rate Risk: AAPL is exposed to changes in global interest rates, particularly U.S. interest rates, which affect interest income, expense, and the value of their investments and",positive
+AAPL,'18,"Here are the key insights from the provided 10-K filing for company AAPL for the year '18:
+
+- Market Risk and Foreign Currency Risk Management: AAPL regularly reviews its foreign exchange and interest rate risk exposures and employs hedging instruments to manage these risks. However, these positions may not fully offset the financial impact of market movements.
+- Interest Rate Risk: AAPL has significant exposure to changes in U.S. interest rates due to its large investment portfolio and",positive
+AAPL,'19,"Here are the key insights from the provided 10-K filing for company AAPL for the year '19:
+
+- Apple Inc. (AAPL) regularly assesses its market risk, including interest rate and foreign currency risks, through various financial instruments and strategies.
+- Interest Rate Risk:
+   - AAPL's investment policy focuses on capital preservation and supporting liquidity requirements, investing primarily in highly-rated, investment-grade securities.
+   - As of September 28,",positive
+AAPL,'20,"Here are the key insights from the provided 10-K filing for company AAPL (Apple Inc.) for the year '20:
+
+- Interest Rate Risk Management: Apple Inc. is exposed to changes in interest rates, primarily due to its investment portfolio and outstanding debt. The company performs sensitivity analysis to assess the impact of interest rate changes on its investment portfolio. As of September 26, 2020, a 100-basis point increase in interest",positive
+AAPL,'21,"Here are some key insights from the provided 10-K filing for company AAPL (Apple Inc.) for the year '21: 
+
+- Interest Rate Risk Management: Apple regularly reviews its interest rate exposure and manages it through the use of interest rate swaps. The company has a significant amount of outstanding debt, and a 100-basis point increase in market interest rates would lead to an increase of $186 million in annual interest expense. 
+- Investment Portfolio",positive
+AAPL,'22,"Here are the key insights from the provided 10-K filing for company AAPL for the year '22: 
+
+- Interest Rate Risk Management: AAPL is exposed to changes in global interest rates, particularly U.S. interest rates, which impact the interest earned on their cash and investments, as well as the cost of hedging and debt interest. They manage this risk through a combination of internal and external investment strategies, focusing on preserving capital and maintaining liquidity. 
+
+-",positive
+AAPL,'23,"Here are the key insights from the provided 10-K filing for company AAPL for the year '23:
+
+- Market Risk Exposure: AAPL acknowledges exposure to market risks, particularly fluctuations in interest rates and foreign exchange rates, which can impact its financial performance.
+- Interest Rate Risk: The company is vulnerable to changes in U.S. interest rates, affecting its investment portfolio and term debt. A rise in interest rates would lead to a decline in the fair value of",positive
+AAPL,'95,"Here are some key insights from the 10-K filing of Apple Inc. (AAPL) for the fiscal year 1995:
+
+- Financial Performance: Apple reported a significant improvement in its financial performance for fiscal 1995. Net sales increased by 20% to $11.06 billion compared to the previous year, and net income grew by 37% to $424 million.
+- Earnings per Share: The earnings",positive
+AAPL,'96,"Here is a summary of the key insights from the 10-K filing for Apple Inc. (AAPL) for the fiscal year 1996:
+
+- Financial Performance: Apple Inc. experienced a significant decline in net sales, units shipped, and market share in 1996, resulting in a net loss of $816 million for the year. This represents a substantial decrease from the net income of $424 million and $310 million",positive
+AAPL,'00,"Here are the key insights from the 10-K filing of Apple Inc. (AAPL) for the fiscal year 2000:
+
+- Financial Performance: Apple reported net sales of $7.98 billion for the fiscal year 2000, representing a 30% increase compared to the previous year. The company also recorded a net income of $786 million, a significant improvement from the net loss of $1.05 billion in",positive
+AAPL,'99,"Here is a summary of the key insights from the 10-K filing of Apple Inc. (AAPL) for the fiscal year 1999:
+
+- Financial Performance: Apple's net sales for the fiscal year 1999 were $6.134 billion, a 3% increase from the previous year. The company reported a net income of $601 million, compared to $309 million in 1998.",negative
+AAPL,'02,"Here are the key insights from the provided 10-K filing for company AAPL for the year '02:
+
+Selected Financial Data:
+- The company's consolidated balance sheets provide a snapshot of its financial position, with details on assets, liabilities, and shareholders' equity. However, specific values or ranges are missing from the provided text.
+
+Management's Discussion and Analysis (MD&A):
+- This section offers a narrative explanation of the company's financial performance, including",negative
+AAPL,'03,"Here are some key insights from the provided 10-K filing for company AAPL for the year '03:
+
+- Financial Performance: The company's financial statements cover a range of years, providing a snapshot of its financial performance. The Consolidated Statements of Operations show year-over-year fluctuations in revenue and earnings, with specific figures in millions.
+- Balance Sheet: The Consolidated Balance Sheets highlight the company's financial position, detailing assets, liabilities, and shareholders' equity. The",neutral
+AAPL,'04,"Here are some key insights from the 10-K filing of Apple Inc. (AAPL) for the year '04:
+
+Financial Performance:
+   - The company's financial statements show strong performance. In the Consolidated Statements of Operations, the company reports a net sales increase of 33% compared to the previous year, with a gross margin of 27.8%.
+   - Net income increased by 275% year-over-year, demonstrating significant growth",positive
+AAPL,'07,"Here are the key insights from the 10-K filing for Apple Inc. (AAPL) for the year '07:
+
+Financial Performance:
+   - The company's financial statements show strong performance. In the consolidated balance sheets, Apple reports millions in assets, with a significant portion in cash and investments.
+   - The consolidated statements of operations show steady revenue growth year-over-year, with a corresponding increase in net income.
+   - Shareholders' equity has also been growing",positive
+AAPL,'97,"Here are the key insights from the 10-K filing of Apple Inc. (AAPL) for the fiscal year 1997:
+
+- Financial Performance: Apple reported a net loss of $1.045 billion for the fiscal year 1997, compared to a net loss of $816 million in 1996. The company's net sales also declined from $9.833 billion in 1996 to",neutral
+AAPL,'05,"Here are some key insights from the provided 10-K filing for Apple Inc. (AAPL) for the year 2005:
+
+## Selected Financial Data:
+- There was a significant increase in net sales from 2001 to 2005, with a notable jump between 2004 and 2005.
+- Net income increased from a loss of $25 million in 2001 to a profit",positive
+AAPL,'06,"Here are the key insights from the provided 10-K filing for Apple Inc. (AAPL) for the fiscal year ended September 30, 2006:
+
+## Financial Performance:
+- Net sales for the fiscal year 2006 were $19.3 billion, a significant increase from $13.9 billion in 2005, indicating strong revenue growth.
+- Net income also showed a substantial increase, reaching $1",positive
+AAPL,'08,"Here are the key insights from the 10-K filing of Apple Inc. (AAPL) for the fiscal year 2008:
+
+- Market Risk and Hedging: Apple regularly reviews its foreign exchange and interest rate exposures and uses derivative instruments to manage these risks. However, there is no assurance that hedging activities will fully offset the impact of market movements.
+- Interest Rate Risk: Apple's investment portfolio is primarily focused on capital preservation and liquidity. A sensitivity analysis",positive
+AAPL,'09,"Here are some key insights from the provided 10-K filing for company AAPL for the year '09:
+
+- The company regularly reviews its foreign exchange forward and option positions but cautions that hedges may not fully offset financial impacts from currency or interest rate movements.
+- AAPL is exposed to interest rate fluctuations, particularly in the US, which can impact interest income/expense and the value of its investments.
+- The company's investment policy focuses on capital preservation and",positive
+AAPL,'10,"Here are the key insights from the provided 10-K filing for Apple Inc. (AAPL) for the year 2010:
+
+Market Risk:
+- Apple regularly reviews its foreign exchange forward and option positions, but there is no assurance that hedges will offset more than a portion of the financial impact of movements in foreign exchange or interest rates.
+- The company is exposed to interest rate fluctuations, particularly in the U.S., which affect its interest income and",positive
+AAPL,'11,"Here are the key insights from the provided 10-K filing for company AAPL for the year '11:
+
+- **Interest Rate and Foreign Currency Risk Management**: The company regularly reviews its foreign exchange forward and option positions and manages its interest rate-related exposures. However, there is no assurance that these positions will fully offset the impact of movements in foreign exchange or interest rates.
+- **Interest Rate Risk**: The company is exposed to interest rate fluctuations, particularly in the U",negative
+AAPL,'12,"Here are the key insights from the provided 10-K filing for company AAPL for the year '12:
+
+- Interest Rate and Foreign Currency Risk Management: The company is exposed to interest rate fluctuations, particularly in the US, which can impact interest income, expense, and the value of its investment portfolio. They employ hedging strategies and regularly review their foreign exchange positions to manage these risks.
+- Interest Rate Risk: A 100-basis point increase in interest",negative
+AAPL,'13,"Here are the key insights from the 10-K filing for AAPL (Apple Inc.) for the year '13:
+
+- Interest Rate and Foreign Currency Risk Management: Apple regularly reviews its foreign exchange and interest rate-related exposures and uses various instruments to manage these risks. However, there is no assurance that these positions will offset more than a portion of the financial impact of movements in rates and currencies.
+- Interest Rate Risk on Investments: Apple is exposed to interest rate fluctuations",positive
+AAPL,'14,"Here are the key insights from the provided 10-K filing for Apple Inc. (AAPL) for the year 2014:
+
+- Market Risk and Interest Rate Risk Management: Apple acknowledges the risks associated with fluctuations in foreign exchange rates and interest rates. They employ various strategies, such as foreign exchange forwards, options, and interest rate swaps, to manage these risks. However, there is no guarantee that these strategies will completely offset the financial impact of market movements.",negative
+AAPL,'15,"Here are the key insights from the provided 10-K filing for company AAPL for the year '15:
+
+- Market Risk and Interest Rate Risk Management: The company engages in risk management activities to mitigate the impact of fluctuations in foreign exchange and interest rates. However, there is no assurance that these strategies will offset all potential financial impacts.
+- Interest Rate Risk: AAPL is exposed to changes in interest rates, particularly in the US, which can affect interest income, expense",positive
+AAPL,'16,"Here are the key insights from the provided 10-K filing for company AAPL for the year '16:
+
+- Market Risk and Management: The company regularly reviews its foreign exchange and interest rate-related exposures and employs various instruments to manage these risks. However, there is no guarantee that these strategies will fully offset potential financial impacts.
+- Interest Rate Risk: AAPL's investment strategy focuses on capital preservation and liquidity support. A sensitivity analysis revealed that a 100",negative
+GOOGL,'16,"Here are some key insights from the provided 10-K filing: 
+
+- The filing is for Alphabet Inc. and its subsidiary, Google Inc., for the fiscal year 2016.
+- Alphabet Inc. expects to continue investing in new businesses, products, technologies, systems, facilities, and infrastructure, as well as aggressively hiring and maintaining competitive compensation programs.
+- The company anticipates fluctuations in quarterly results due to seasonal fluctuations in internet usage, advertiser expenditures, and macroeconomic conditions",positive
+GOOGL,'17,"Here are the key insights from the provided 10-K filing for GOOGL (Alphabet Inc.) for the year 2017:
+
+**Forward-Looking Statements**:
+   - The report includes forward-looking statements about Alphabet's business expectations, plans for investments, revenue growth, fluctuations in internet usage, advertiser expenditures, and macroeconomic conditions.
+
+**Financial Performance and Outlook**:
+   - Alphabet expects fluctuations in its revenue growth rate and monetization trends, which could impact revenues and",neutral
+GOOGL,'18,"Here are some key insights from the provided 10-K filing for Alphabet Inc. (GOOGL) for the year 2018:
+
+- **Financial Performance:** Alphabet Inc. reported strong financial results for 2017 with a total revenue of $110.8 billion, representing a 23% increase compared to 2016. The company's net income was $30.7 billion, a significant improvement from the $1",positive
+GOOGL,'19,"Here are some key insights from the 10-K filing of Alphabet Inc. (GOOGL) for the year 2019:
+
+- Forward-Looking Statements: The report contains forward-looking statements regarding the company's business, financial condition, and results of operations, including expectations about future growth, investments, fluctuations in quarterly results, monetization trends, and more.
+- Financial Highlights:
+   - Revenue growth: Alphabet reported a revenue of $161.8",positive
+GOOGL,'20,"Here are some key insights from the 10-K filing of Alphabet Inc. (Google's parent company) for the year 2020:
+
+- **Forward-Looking Statements**: The report starts with a note about forward-looking statements, which are predictions about the company's future performance. These statements cover a range of topics, including revenue growth, online trends, monetization, international markets, and future investments.
+- **Financial Performance**: The company's financial statements have been",neutral
+GOOGL,'21,"Here are some key insights from the provided 10-K filing for GOOGL (Alphabet Inc.) for the year 2021:
+
+Financial Performance:
+- GOOGL's revenues have shown a consistent upward trend, increasing from $90.27 billion in 2016 to $182.53 billion in 2020, representing a compound annual growth rate (CAGR) of over 18%.
+- Income",positive
+GOOGL,'22,"Here are some key insights from the provided 10-K filing for Alphabet Inc. (GOOGL) for the year 2022: 
+
+- Alphabet Inc. is a collection of businesses, with Google being the largest, divided into two segments: Google Services and Google Cloud. Non-Google businesses are collectively referred to as ""Other Bets,"" which include earlier-stage technologies. 
+- The company's financial results are influenced by long-term trends such as the ongoing",negative
+GOOGL,'23,"Here are the key insights from the provided 10-K filing for GOOGL (Alphabet Inc.) for the year '23:
+
+## Executive Summary:
+- Alphabet Inc., the parent company of Google, reports its financial performance through two main segments: Google Services and Google Cloud, with non-Google businesses collectively referred to as ""Other Bets.""
+- The company's financial results are influenced by long-term trends, including the ongoing shift from offline to online, increasing competition",positive
+MSFT,'95,"Here is a summary of the key insights from the 10-K filing of Microsoft (MSFT) for the fiscal year 1995:
+
+- Financial Performance: Microsoft's net revenues showed impressive growth, increasing by 24% in 1994 and 28% in 1995. This growth was primarily driven by increases in software license volume rather than price hikes. The company's net income also rose significantly during these years, reaching $1",positive
+MSFT,'96,"Here are the key insights from the 10-K filing of Microsoft (MSFT) for the year 1996:
+
+- Financial Performance: The filing includes selected financial data and management's discussion and analysis of financial condition and results of operations. However, the specific financial details are not provided in the given text but are referenced from the 1996 Annual Report.
+
+- Executive Officers: The filing provides information about Microsoft's executive officers as of September 9,",neutral
+MSFT,'23,"Here are some key insights from the provided 10-K filing for Microsoft Corporation (MSFT) for the fiscal year ended June 30, 2023: 
+
+- Microsoft's mission is to empower every person and organization on the planet to achieve more through its cloud-based solutions, content, and other services. 
+- The company's most significant expenses are related to employee compensation, cloud infrastructure, and device manufacturing and marketing.
+- Microsoft Cloud revenue, which includes",positive
+MSFT,'97,"Here are the key insights from the 10-K filing of Microsoft (MSFT) for the fiscal year 1997:
+
+- Financial Performance: The filing includes selected financial data, management's discussion, and analysis of financial condition, and financial statements. However, the specific financial details are not provided in the given text.
+
+- Executive Officers:
+
+    - William H. Gates (Co-founder, Chairman, and CEO): Co-founded Microsoft in 197",neutral
+MSFT,'00,"Here are the key insights from the 10-K filing for Microsoft (MSFT) for the year 2000:
+
+Selected Financial Data:
+- The financial information on the inside front cover of the 2000 Annual Report is referenced and included as an exhibit.
+
+Management's Discussion and Analysis:
+- Pages 15-24 of the 2000 Annual Report provide management's discussion and analysis of results of operations and financial condition,",neutral
+MSFT,'01,"Here are the key insights from the 10-K filing of Microsoft (MSFT) for the fiscal year 2001:
+
+- Financial Performance: Microsoft's revenue grew by 10% in fiscal 2001, driven primarily by licensing of Windows 2000 Professional, SQL Server, and other .NET Enterprise Servers. The company's revenue for the year was $25.296 billion.
+- Net Income: Microsoft's net income",positive
+MSFT,'02,"Here are some key insights from the provided 10-K filing for Microsoft (MSFT) for the year 2002:
+
+## Financial Highlights:
+- Revenue grew by 12% from the previous year to $28.37 billion.
+- Operating income increased slightly to $11.91 billion.
+- Net income increased to $7.83 billion, recovering from the previous year's decline.
+- Cash and short-term investments",negative
+MSFT,'98,"Here is a summary of the key insights from the 10-K filing for Microsoft (MSFT) for the fiscal year 1998:
+
+Selected Financial Data:
+- The financial information on page 1 of the 1998 Annual Report is referenced and included as an exhibit.
+
+Management's Discussion and Analysis:
+- Pages 27-33 of the Annual Report are dedicated to a discussion of the company's results, strategies, and future goals",neutral
+MSFT,'99,"Here are the key insights from the 10-K filing for MSFT for the year '99:
+
+Selected Financial Data:
+- The selected financial data for the three years ended June 30, 1999, is incorporated by reference from the 1999 Annual Report and filed as Exhibit 13.2.
+
+Management's Discussion and Analysis:
+- Management's discussion and analysis of results of operations and financial condition, including quantitative and",neutral
+MSFT,'03,"Here are the key insights from the 10-K filing for MSFT for the year 2003:
+
+- **Financial Performance**: MSFT reported strong financial results for the year with a revenue growth of 13%, driven primarily by multi-year licensing and increased revenue from Microsoft Windows operating systems and Xbox video game consoles. Operating income grew by 11% due to higher revenue, partially offset by increased operating expenses.
+- **Revenue Breakdown**: The company's",positive
+MSFT,'04,"Here are the key insights from the 10-K filing of Microsoft (MSFT) for the year 2004:
+
+- Financial Highlights: The company's revenue increased from $28.365 billion in 2002 to $36.835 billion in 2004, representing a compound annual growth rate (CAGR) of 11.8%. Operating income fluctuated during this period but saw an overall increase, with",neutral
+MSFT,'05,"Here are the key insights from the 10-K filing of Microsoft (MSFT) for the year 2005:
+
+- Financial Highlights: The company's revenue increased from $32.19 billion in 2003 to $39.79 billion in 2005, with a significant jump in operating income from $9.55 billion to $14.56 billion in the same period.
+- Net income also saw",positive
+MSFT,'06,"Here are some key insights from the 10-K filing of Microsoft (MSFT) for the fiscal year ended June 30, '06:
+
+- **Business Overview**: Microsoft's mission is to enable people and businesses to realize their full potential through technology. They develop, license, and support a wide range of software products and offer related services and solutions.
+- **Financial Performance**: In the fiscal year '06, Microsoft reported revenue of $44.28",positive
+MSFT,'07,"Here are the key insights from the 10-K filing of Microsoft Corporation (MSFT) for the fiscal year 2007 (FY2007):
+
+- Financial Highlights: MSFT reported strong financial results for FY2007 with revenue of $51.1 billion, an increase of 15% compared to the previous year. Operating income, net income, and diluted earnings per share also increased year-over-year.
+- Revenue Recognition:",positive
+MSFT,'08,"Here are the key insights from the 10-K filing of Microsoft Corporation (MSFT) for the fiscal year ended June 30, 2008:
+
+- Financial Highlights: MSFT reported strong financial results for the fiscal year with revenue of $60.42 billion, an increase of 18% compared to the previous year. Operating income and net income also increased significantly, with operating income at $22.49 billion and net income at $",positive
+MSFT,'09,"Here are the key insights from the 10-K filing of Microsoft (MSFT) for the fiscal year 2009:
+
+- Financial Performance -- In fiscal year 2009, Microsoft's revenue was $58.4 billion, a decrease from $60.4 billion in 2008. The company's operating income was $20.4 billion, and net income was $14.6 billion. Diluted earnings per share were",neutral
+MSFT,'10,"Here are some key insights from the 10-K filing of Microsoft (MSFT) for the year 2010:
+
+- **Business Overview**: Microsoft's mission is to enable people and businesses to realize their full potential through its software, services, hardware, and solutions. The company generates revenue by developing, manufacturing, licensing, and supporting a wide range of products and services for various computing devices.
+- **Financial Performance**: In 2010, Microsoft reported revenue",positive
+MSFT,'11,"Here are some key insights from the 10-K filing of Microsoft (MSFT) for the year 2011:
+
+- Financial Performance: In 2011, Microsoft reported a revenue of $69.94 billion, an increase of $7.46 billion or 11% compared to 2010. The revenue growth was driven by strong performance in the Server and Tools, Microsoft Business Division, and Entertainment and Devices Division segments.",positive
+MSFT,'12,"Here are some key insights from the 10-K filing of Microsoft (MSFT) for the year 2012:
+
+- **Business Overview**: Microsoft is a technology company that develops, licenses, and supports software products, services, and hardware. They offer operating systems, server applications, productivity applications, business solutions, and more. They also design and sell hardware, such as the Xbox gaming console and Microsoft PC hardware products.
+- **Financial Performance**: In 20",positive
+MSFT,'13,"Here are some key insights from the 10-K filing of Microsoft (MSFT) for the year 2013:
+
+- **Business Overview**: Microsoft's mission is to enable people and businesses to realize their full potential by creating technology that transforms the way people work, play, and communicate. They generate revenue by developing, licensing, and supporting software products, services, and hardware devices.
+- **Financial Performance**: In 2013, Microsoft reported a revenue of",positive
+MSFT,'14,"Here are some key insights from the provided 10-K filing for Microsoft (MSFT) for the year 2014:
+
+- Acquisitions and Notable Expenses:
+   - Microsoft acquired Nokia's Devices and Services business (NDS) in April 2014, which is now included in the company's consolidated results.
+   - There was a tax provision adjustment in the fourth quarter of fiscal 2014, reducing net income by $458 million",positive
+MSFT,'15,"Here are some key insights from the provided 10-K filing for Microsoft (MSFT) for the fiscal year 2015:
+
+## Financial Performance:
+- Revenue: MSFT reported a revenue of $93.58 billion for the fiscal year 2015, representing a growth of 7.8% compared to the previous year.
+- Operating Income: Operating income decreased significantly from $27.76 billion in 2014",negative
+MSFT,'16,"Here are some key insights from the 10-K filing for Microsoft (MSFT) for the year 2016:
+
+- Financial Performance: Microsoft's revenue for the year was $85.32 billion, a decrease from $93.58 billion in 2015. The decrease was primarily due to lower revenue from the company's Productivity and Business Processes, and More Personal Computing segments. The company's net income was $16.79",positive
+MSFT,'17,"Here are some key insights from the provided 10-K filing for Microsoft (MSFT) for the fiscal year 2017:
+
+- Financial Highlights:
+   - Revenue: MSFT reported a revenue of $89.95 billion for the year ended June 30, 2017, an increase from $85.32 billion in 2016.
+   - Gross Margin: The gross margin for 2017 was $",neutral
+MSFT,'18,"Here are some key insights from the provided 10-K filing for Microsoft (MSFT) for the fiscal year 2018:
+
+- Financial Performance: Microsoft reported strong financial results for the year ended June 30, 2018, with a revenue of $110.36 billion, a significant increase from the previous year's $96.57 billion. The company's gross margin also improved to $72.01 billion,",positive
+MSFT,'19,"Here are some key insights from the 10-K filing of Microsoft (MSFT) for the fiscal year ended June 30, 2019 ('19):
+
+- Financial Performance: Microsoft reported strong financial results for the fiscal year with a revenue of $125.8 billion, an increase of $15.5 billion or 14% compared to the previous year. The revenue growth was driven by gains across all business segments, particularly in the Intelligent",positive
+MSFT,'20,"Here are some key insights from the 10-K filing of Microsoft Corporation (MSFT) for the fiscal year ended June 30, '20:
+
+## Financial Highlights:
+- Revenue: MSFT reported a significant increase in revenue from $125.8 billion in 2019 to $143 billion in 2020, driven by growth in its product and service segments.
+- Gross Margin: The gross margin increased from $8",positive
+MSFT,'21,"Here are some key insights from the provided 10-K filing for Microsoft (MSFT) for the fiscal year 2021: 
+
+- Microsoft's mission is to empower every person and organization on the planet to achieve more. They offer a wide range of cloud-based services, software products, devices, and online advertising.
+- Fiscal Year 2021 Highlights:
+   - Commercial cloud revenue increased by 34% to $69.1 billion.",positive
+MSFT,'22,"Here are some key insights from the provided 10-K filing for Microsoft (MSFT) for the fiscal year ending June 30, 2022: 
+
+- Microsoft's mission is to empower people and organizations globally to achieve more through its technology products and services. 
+
+- The company generates revenue through a diverse range of offerings, including cloud-based services, software licensing, device sales, and online advertising. 
+
+- Microsoft Cloud (formerly commercial cloud) revenue increased",positive
