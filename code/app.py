@@ -63,7 +63,7 @@ st.write("Select a company ticker to view insights.")
 ticker_table = st.selectbox("Company Ticker", options=['AAPL', 'GOOGL', 'MSFT'])
 
 # Load insights from CSV
-insights_csv = "insights_cohere.csv"
+insights_csv = "code/insights_cohere.csv"
 insights = load_insights_from_csv(insights_csv)
 
 st.write("Insights from 10-K Filings:")
